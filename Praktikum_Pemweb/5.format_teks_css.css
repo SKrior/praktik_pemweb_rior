@@ -1,0 +1,33 @@
+.tulisan_satu {
+    color: rgb(112, 174, 219); 
+    text-decoration: underline;
+    text-align: left;
+    text-transform: none;
+    letter-spacing: 2px;
+}
+
+.tulisan_dua {
+    color: rgb(117, 202, 169);
+    text-align: right; 
+    text-transform: capitalize;
+    text-decoration: overline; 
+    word-spacing: 10px; 
+}
+
+.tulisan_tiga {
+    color: rgb(234, 130, 130);
+    text-align: center; 
+    text-transform: lowercase; 
+    text-decoration: line-through;
+    line-height: 1.6; 
+}
+
+.tulisan_empat {
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    text-transform: uppercase;
+    text-indent: 30px; 
+    letter-spacing: 1px; 
+    word-spacing: 5px; 
+    line-height: 1.5; 
+}
